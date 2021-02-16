@@ -1,0 +1,8 @@
+6
+rounded
+squared
+traveler
+oval
+oblong
+pilot
+0

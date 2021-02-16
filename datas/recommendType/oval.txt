@@ -1,0 +1,9 @@
+3
+rounded
+squared
+traveler
+4
+oval
+oblong
+pilot
+catEye

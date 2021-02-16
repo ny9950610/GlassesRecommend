@@ -1,0 +1,3 @@
+{
+    "files": ["main.py","faceShapeRecognizer.py","mainwindow.py","mainwindow.ui","pictureCompound.py"]
+}
