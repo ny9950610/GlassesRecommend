@@ -7,13 +7,3 @@
 除了"拍照"按鈕外 還有另外的兩個按鈕 分別為"取消重拍"和"回復原狀"  
 按下"取消重拍"可以取消剛剛拍的照片 讓使用者再次拍照  
 按下"回復原狀"則是讓使用者看自己尚未配戴眼鏡時的樣子  
-
-## 示意圖  
-![image](https://github.com/ny9950610/GlassesRecommend/blob/master/example.png)  
-程式開啟時的畫面  
-  
-![image](https://github.com/ny9950610/GlassesRecommend/blob/master/example2.png)  
-按下"拍照"按鈕時的畫面  
-  
-![image](https://github.com/ny9950610/GlassesRecommend/blob/master/example3.png)
-選擇眼鏡後的畫面  
